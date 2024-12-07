@@ -1,0 +1,1 @@
+This repository demonstrates a common yet subtle bug in Java involving loop control statements. The original code exhibits unexpected behavior due to the improper placement of a break statement. The solution file provides a corrected version that addresses the issue and ensures the loop functions as intended.
